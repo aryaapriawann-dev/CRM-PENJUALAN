@@ -1,0 +1,6 @@
+{
+  "name": "Karsa CRM",
+  "description": "Aplikasi web manajemen hubungan pelanggan (CRM), direktori kontak B2B, pelacak pipeline penjualan, dan jadwal tindak lanjut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
